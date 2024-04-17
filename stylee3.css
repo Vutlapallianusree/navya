@@ -1,0 +1,247 @@
+*{
+    margin:0;
+    padding:0;
+}
+.div1{
+background-color:  #954535;
+height:60px;
+width: 100%;
+}
+.p1{
+    color: white;
+    font-size: xx-large;
+    font-weight: 800;
+    text-align: center;
+    padding-top:12px; 
+    }
+    .section1{
+        background-image: linear-gradient(rgba(128, 128, 128, 0.273),rgba(0, 0, 0, 0.716)) ,url(./about4.jpg) ;
+        min-height: 85vh;
+        width:100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .p2{
+        color:white;
+        font-size:large;
+        padding:2px;
+        
+    }
+    .div2{
+        margin-left:200px;
+        padding-top: 200px;
+    }
+    .div3{
+        margin-left: 200px;
+        padding-top:50px;
+    
+    }
+    .p3{
+        background-color:#F2D2BD;
+        width:250px;
+        height:40px;
+        border-radius: 2px;
+        font-size: larger;
+        text-align: center;
+        padding-top: 15px;
+        color:#DC143C;
+        
+       }
+       ul{
+        list-style-type: none;
+        display:flex;
+        padding: 15px;
+        
+    }
+    li{
+        padding:15px; 
+        
+    
+    }
+    .a1{
+        color:white;
+        font-weight:bold; 
+        font-size: large;
+        text-align: center;  
+        text-decoration: none;
+    }
+    .a1:hover{
+        /* background-color: aliceblue; */
+        text-decoration: underline;
+        text-decoration-color: brown;
+    }
+    .section2{
+        background-color: rgba(226, 200, 167, 0.803);
+        min-height: 140vh;
+        width:100%;
+    }
+    .content1{
+        display:flex;
+        justify-content: space-between;
+        padding-top:0px;
+        padding-left:220px;
+        padding-right: 150px;
+        padding-top:0px;
+    }
+    .div4{
+        background-color:#F89880; 
+        width:350px;
+        border-radius: 5px;
+        margin-top: 50px; 
+        height:300px;
+    
+    }
+    .div5{
+        background-color:#CF9FFF;
+        width:350px;
+        border-radius: 5px;
+        margin-top: 50px;
+        height: 300px;  
+    }
+    .div6{
+        background-color:#AA4A44;
+        height: 300px;
+        width: 350px;
+        border-radius: 5px;
+        margin-top: 50px;
+    }
+    .img1{
+        background-image: url(./architecture.jpgw3.webp);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+        
+    
+    }
+    .img2{
+    
+        background-image: url(./mechanical-courses-500x500.webp);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+    
+    }
+    .img3{
+        background-image: url(./electronics.jpg);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+    .div7{
+        background-color:white;
+        height: 300px;
+        width: 350px;
+        border-radius: 5px;
+        margin-top: 50px;
+    }
+    .div8{
+        background-color:white;
+        height: 300px;
+        width: 350px;
+        border-radius: 5px;
+        margin-top: 50px;
+    }
+    .div9{
+        background-color:white;
+        height: 300px;
+        width: 350px;
+        border-radius: 5px;
+        margin-top: 50px;
+    }
+    .img4{
+        background-image: url(./electrical.jpg.jpg);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+    .img5{
+        background-image: url(./csae.jpg);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+    .img6{
+        background-image: url(./it.jpg);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+    .img7{
+        background-image: url(./photograph.jpeg);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+    .img8{
+        background-image: url(./civil.jpg);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+    .img9{
+        background-image: url(./business\ management.png);
+        min-height:80%;
+        width:95%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+    .plast{
+        color:white;
+        font-size: larger;
+        font-weight:bold;
+        text-align: center;
+        padding-top: 8px; 
+    }
+    .a2{
+        color:white;
+        font-weight:600;
+        font-size: large;
+        text-align: center;  
+        text-decoration: none;
+    }
+    .ul11{
+        list-style-type: none;
+        display:flex;
+        padding: 10px;
+    }
+    .li11{
+        padding:10px; 
+    
+    }
+    .p4{
+        background-color:#FFDEAD;
+        width:130px;
+        height:20px;
+        border-radius: 2px;
+        font-size: larger;
+        text-align: center;
+        padding-top: 5px;
+        color:#D2042D;
+       }
+    
